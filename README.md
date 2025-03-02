@@ -7,7 +7,9 @@
     <img alt="C#" src="https://img.shields.io/badge/-Lang-45b8d8?style=flat&logo=sharp&logoColor=purple&label=C%23&color=purple" />
     <img alt="PHP" src="https://img.shields.io/badge/-Lang-45b8d8?style=flat&logo=php&logoColor=%23777BB4&label=PHP&color=%23777BB4" />
     <img alt="Espressif" src="https://img.shields.io/badge/-IDF-45b8d8?style=flat&logo=espressif&label=Espressif&color=red" />
-    <img alt="Arduino" src="https://img.shields.io/badge/-IDE-45b8d8?style=flat&logo=arduino&logoColor=blue&label=arduino&color=blue" />
+    <img alt="Arduino" src="https://img.shields.io/badge/-IDE-45b8d8?style=flat&logo=arduino&logoColor=blue&label=Arduino&color=blue" />
     <img alt="CPanel" src="https://img.shields.io/badge/-CP-45b8d8?style=flat&logo=cpanel&logoColor=%23FF6C2C&label=CPanel&color=%23FF6C2C" />
     <img alt="MySql" src="https://img.shields.io/badge/-DB-45b8d8?style=flat&logo=mysql&logoColor=blue&label=MySQL&color=blue" />
+    <img alt="C++" src="https://img.shields.io/badge/-Lang-45b8d8?style=flat&logo=cplusplus&logoColor=%2300599C&label=C%2B%2B&color=%2300599C" />
+    <img alt="Git" src="https://img.shields.io/badge/-Tool-45b8d8?style=flat-square&logo=git&logoColor=%23F05032&label=Git&color=%23F05032" />
 </p>
