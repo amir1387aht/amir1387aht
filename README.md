@@ -14,4 +14,7 @@
     <img alt="Git" src="https://img.shields.io/badge/-Tool-45b8d8?style=flat-square&logo=git&logoColor=%23F05032&label=Git&color=%23F05032" />
 </p>
 
-https://github-readme-stats.vercel.app/api?username=amir1387aht&theme=dark&show_icons=true&hide_border=true&count_private=true
+<p>
+    <img alt="My State" src="https://github-readme-stats.vercel.app/api?username=amir1387aht&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+</p>
+
