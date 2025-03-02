@@ -6,5 +6,6 @@
     <img alt="Unity" src="https://img.shields.io/badge/-Engine-45b8d8?style=flat&logo=unity&label=Unity&color=white" />
     <img alt="Espressif" src="https://img.shields.io/badge/-IDF-45b8d8?style=flat&logo=espressif&label=Espressif&color=red" />
     <img alt="Arduino" src="https://img.shields.io/badge/-IDE-45b8d8?style=flat&logo=arduino&logoColor=blue&label=arduino&color=blue" />
+    <img alt="CPanel" src="https://img.shields.io/badge/-CP-45b8d8?style=flat&logo=cpanel&logoColor=%23FF6C2C&label=CPanel&color=%23FF6C2C" />
     <img alt="MySql" src="https://img.shields.io/badge/-DB-45b8d8?style=flat&logo=mysql&logoColor=blue&label=MySQL&color=blue" />
 </p>
