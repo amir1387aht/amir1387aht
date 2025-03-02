@@ -4,5 +4,5 @@
 <h3>Things I code with</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-Unity-45b8d8?style=flat&logo=unity&label=Engine&color=white" />
-    <img alt="React" src="https://img.shields.io/badge/-IDF-45b8d8?style=flat&logo=espressif&label=Espressif&color=white" />
+    <img alt="React" src="https://img.shields.io/badge/-IDF-45b8d8?style=flat&logo=espressif&label=Espressif&color=red" />
 </p>
