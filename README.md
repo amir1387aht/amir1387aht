@@ -13,3 +13,5 @@
     <img alt="C++" src="https://img.shields.io/badge/-Lang-45b8d8?style=flat&logo=cplusplus&logoColor=%2300599C&label=C%2B%2B&color=%2300599C" />
     <img alt="Git" src="https://img.shields.io/badge/-Tool-45b8d8?style=flat-square&logo=git&logoColor=%23F05032&label=Git&color=%23F05032" />
 </p>
+
+https://github-readme-stats.vercel.app/api?username=amir1387aht&theme=dark&show_icons=true&hide_border=true&count_private=true
