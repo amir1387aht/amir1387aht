@@ -83,7 +83,7 @@
 </a>
 <br/>
 <a href="https://github.com/amir1387aht/Burst-attribute-adder-for-unity-csharp-classses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir1387aht&repo=Burst-attribute-adder-for-unity-csharp-classses&theme=tokyonight&hide_border=true" alt="Burst attribute adder"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amir1387aht&repo=MicroCS&theme=tokyonight&hide_border=true" alt="MicroCS"/>
 </a>
 
 </div>
